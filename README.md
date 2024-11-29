@@ -1,3 +1,8 @@
-# advent-of-code-23
+# advent-of-code-22
 
-Run all tests `go test ./...`
+**Tests**
+- Run all tests `go test ./...`
+- Run one day `go test ./01`
+
+**Real input**
+`go run ./01`
