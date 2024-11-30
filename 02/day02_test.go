@@ -21,7 +21,7 @@ func TestDay1Part1(t *testing.T) {
 
 func TestDay1Part2(t *testing.T) {
 	result := Part2(input1)
-	expected := 0
+	expected := 12
 
 	if result != expected {
 		fmt.Printf("got %v, expected %v\n", result, expected)
